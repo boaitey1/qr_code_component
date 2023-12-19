@@ -25,7 +25,7 @@
     height: 100vh;
   }
   #card{
-    width: 280px;
+    width: 290px;
     height: fit-content;
     background: var(--White);
     border-radius: 15px;
@@ -35,15 +35,15 @@
     width: 100%;
   }
   #card_img img{
-    max-width: 255px;
-    margin: 14px 0 25px 0;
+    max-width: 265px;
+    margin: 12px 0 25px 0;
     border-radius: 10px;
   
   }
   #card_text{
     text-align: center;
     color: var(--Grayish_blue);
-    margin-bottom:40px;
+    padding-bottom:40px !important;
   }
    h1 {
     color: var(--Dark_blue);
